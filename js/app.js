@@ -6,3 +6,7 @@ const doList = document. querySelector("#todo-list")
 // 
 
 
+submitButton.addEventListener('click',function(evt){
+  
+})
+
